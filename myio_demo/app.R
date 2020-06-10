@@ -5,8 +5,8 @@ library(jsonlite)
 library(dplyr)
 library(tibble)
 library(broom)
-library(myIO)
 library(viridis)
+library(myIO)
 
 # Define UI
 ui <- navbarPage(
